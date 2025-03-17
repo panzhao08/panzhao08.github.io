@@ -1,3 +1,8 @@
+---
+layout: single
+permalink: /publications/
+author_profile: true
+---
 
 * **P. Zhao**, D. Xue, L. Wu et al., "HEAT: Efficient Vision Transformer Accelerator with Hybrid-Precision Quantization," in IEEE Transactions on Circuits and Systems II: Express Briefs, 2025.
 * Y. Wang, L. Chang, J. Wang, **P. Zhao** et al., "PIPECIM: Energy-Efficient Pipelined Computing-in-Memory Computation Engine With Sparsity-Aware Technique," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 33, no. 2, pp. 525-536, Feb. 2025.
