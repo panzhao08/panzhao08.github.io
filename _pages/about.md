@@ -14,3 +14,10 @@ redirect_from:
 
 I received my bachelor's degree in Electronics and Information Engineering from Sichuan University in 2022. My current research interest is neural network hardware accelerator design. 
 
+## Research Interests
+Neural Neral Hardware Accelerator, AI Chip
+
+## Honors and Awards
+* National Scholarship for Master Students (UESTC, 2024)
+* SCU Excellent Bachelor Thesis Award (2022)
+* National Scholarship for Undergraduate Students (SCU, 2021)
