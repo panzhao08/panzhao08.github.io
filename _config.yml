@@ -26,7 +26,7 @@ author:
   name             : "Pan Zhao"
   pronouns         : # example: "he/his"  
   bio              : "Master Student in Information and Communication Engineering, UESTC"
-  location         : "Chengdu City, China"
+  location         : "Chengdu, China"
   employer         : "UESTC"
   uri              : # URL
   email            : "panzhao@std.uestc.edu.cn" 
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/panzhao08"
+  github           : "panzhao08"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -73,7 +73,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "https://www.zhihu.com/people/luan-qu-ge-ming-zi-14"
+  zhihu            : "luan-qu-ge-ming-zi-14"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
