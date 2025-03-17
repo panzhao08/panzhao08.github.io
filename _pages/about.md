@@ -12,7 +12,7 @@ redirect_from:
 *The University of Electronic Science and Technology of China (UESTC)*    
 *Department of Information and Communication Engineering*
 
-I received my bachelor's degree in Electronics and Information Engineering from Sichuan University in 2022. My current research interest is neural network hardware accelerator design. 
+I received my bachelor's degree in Electronics and Information Engineering from Sichuan University (SCU) in 2022. My current research interest is neural network hardware accelerator design. 
 
 ## Research Interests
 Neural Neral Hardware Accelerator, AI Chip
