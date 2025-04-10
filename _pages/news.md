@@ -5,4 +5,4 @@ permalink: /news/
 author_profile: true
 ---
 
-* March 17, 2025. I create my homepage.
+* March 17, 2025. I created my homepage.
