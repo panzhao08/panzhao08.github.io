@@ -29,7 +29,8 @@ author:
   location         : "Chengdu, China"
   employer         : "UESTC"
   uri              : # URL
-  email            : "panzhao@std.uestc.edu.cn" 
+  # email            : "panzhao@std.uestc.edu.cn" 
+  email            : "panzhao08@sjtu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
